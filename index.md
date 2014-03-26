@@ -11,7 +11,7 @@ layout: default
 
 ### 2011-2012
 
-<div data-configid="10878702/7247301" style="width: 650px; height: 4210px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+<div data-configid="10878702/7247301" style="width: 650px; height: 421px; margin:0 auto;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
 
 ### 2009-2010
 
