@@ -7,4 +7,4 @@ layout: default
 
 Currently, we just [host previous UCSC dis-orientation guides](http://ucsc.dis-orientation.info). If you're from UCSC and would like to get involved with the Dis-orientation collective directly, please contact us at:
 
-<img src="/images/contact.gif" width="400" alt="contact" style="display: block;margin-left: auto;margin-right: auto;background-color:#EEE9CA" /> 
+<img src="http://dis-orientation.github.io/images/contact.gif" width="400" alt="contact" style="display: block;margin-left: auto;margin-right: auto;background-color:#EEE9CA" /> 
